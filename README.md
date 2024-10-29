@@ -1,4 +1,4 @@
-# 🏄‍♂🎈 Simplified data effort
+#🎈 Simplified data effort
 
 **`Web developer (Developer/Designer)`**
 

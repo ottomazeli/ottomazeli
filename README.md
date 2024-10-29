@@ -1,8 +1,6 @@
 ## Effort translated to data on your screen. 🎈
 
-<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottomazeli&layout=compact)
-</div>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->

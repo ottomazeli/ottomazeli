@@ -2,7 +2,7 @@
 
 **`Web developer (Developer/Designer)`**
 
-I am a programming student pursuing the goal of being a positive influence and inspiration for the next generations of programmers. All codes seek to help the public in some way. I publish the entire process on my Instagram "[otavio.tomazeli]" for all my followers.
+I am a programming student pursuing the goal of being a positive influence and inspiration for the next generations of programmers. All codes seek to help the public in some way. I publish the entire process on my Instagram "otavio.tomazeli" for all my followers.
 
 ---
 
